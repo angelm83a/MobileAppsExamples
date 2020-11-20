@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Caesar Encryptor</string>
+
+    <string name="fieldID1">messageInput</string>
+    <string name="fieldID2">shiftNumber</string>
+    <string name="fieldID3">targetAlphabet</string>
+    <string name="fieldID4">cipherText</string>
+    <string name="buttonID">encryptButton</string>
+
+    <string-array name="alphabets">
+        <item>Normal</item>
+        <item>Reverse</item>
+        <item>QWERTY</item>
+    </string-array>
+
+</resources>
